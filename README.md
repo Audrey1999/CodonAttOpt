@@ -35,7 +35,7 @@ Python 3.X
 ## Installation_Guide
 ### Download the codes
 ```bash
-git clone https://github.com/SJGLAB/CodonAttOpt.git
+git clone https://github.com/Audrey1999/CodonAttOpt.git
 ```
 ### Prepare the environment
 We recommend you to use Anaconda to prepare the environments.
