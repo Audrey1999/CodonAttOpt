@@ -53,7 +53,7 @@ python test.py --status dev --batch_size 8 --hidden_dim 3000 --word_emb_dim 3000
 ```
 
 ## Thanks
-We build our model based on the architecture [code](https://github.com/Devil625/Codon_Optimization)
+We build our model based on the architecture [code](https://github.com/jiesutd/NCRFpp)
 
 ## Contact Us
 If you have questions about using CodonAttOpt, please contact us.
